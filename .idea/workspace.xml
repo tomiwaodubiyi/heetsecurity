@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="Separated the pages and added the codes ti their unique page. Also included the photos of the team">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="Separated the pages and added the codes ti their unique page. Also included the photos of the team" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
