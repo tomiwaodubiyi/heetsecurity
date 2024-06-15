@@ -4,26 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/heetsec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HEETSECURITY.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heetsec-socials.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heetsec-team.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/socials/IG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/socials/X.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/socials/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/passport.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="Added a Meet the team header, and added the members of the team description and role in the company. Yet to update the images.">
+      <change afterPath="$PROJECT_DIR$/pages/About.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Socials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +54,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Home" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="heetsec" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,6 +93,15 @@
       <option name="presentableId" value="Default" />
       <updated>1718430368314</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added a Meet the team header, and added the members of the team description and role in the company. Yet to update the images.">
+      <option name="closed" value="true" />
+      <created>1718446247093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718446247093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a Meet the team header, and added the members of the team description and role in the company. Yet to update the images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a Meet the team header, and added the members of the team description and role in the company. Yet to update the images." />
   </component>
 </project>
