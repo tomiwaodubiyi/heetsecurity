@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="Added the navigation side bar with five new pages, then renamed main.py to Home.py.">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/9josky.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/Ayigi.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/Femi.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/Toby.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Team.py" afterDir="false" />
+    <list default="true" id="4721c6f5-e06d-4e1d-9da9-2071f0750f0c" name="Changes" comment="Separated the pages and added the codes ti their unique page. Also included the photos of the team">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heetsec-team.csv" beforeDir="false" afterPath="$PROJECT_DIR$/heetsec-team.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/About.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/About.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Blog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Services.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Services.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Socials.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Socials.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -50,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "tommy__dev",
     "last_opened_file_path": "/Users/mac/Documents/python_projects/heetsec/images/team"
   }
 }]]></component>
@@ -117,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718448115857</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Separated the pages and added the codes ti their unique page. Also included the photos of the team">
+      <option name="closed" value="true" />
+      <created>1718459481822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718459481822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a Meet the team header, and added the members of the team description and role in the company. Yet to update the images." />
     <MESSAGE value="Added the navigation side bar with five new pages, then renamed main.py to Home.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the navigation side bar with five new pages, then renamed main.py to Home.py." />
+    <MESSAGE value="Separated the pages and added the codes ti their unique page. Also included the photos of the team" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separated the pages and added the codes ti their unique page. Also included the photos of the team" />
   </component>
 </project>
